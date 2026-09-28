@@ -14,7 +14,7 @@ const PRESENTATION_DATA = {
       "01. Pengertian Seni Lukis Romantisme",
       "02. Latar Belakang Kemunculan",
       "03. 5 Tokoh Romantisme Nasional + Karya",
-      "04. Transisi & 5 Tokoh Internasional + Karya",
+      "04. 5 Tokoh Internasional + Karya",
       "05. 3 Pertanyaan Diskusi Audiens",
       "06. Penutup & Kesimpulan"
     ]
