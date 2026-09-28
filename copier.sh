@@ -1,0 +1,1 @@
+cp -r "/sdcard/My Projects/romantisme3/"* "/public/rmn"
